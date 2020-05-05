@@ -1,0 +1,9 @@
+﻿  Diagram.cpp
+  main.cpp
+  scaner.cpp
+C:\Awesome Stuff\University\TLP\scaner\scaner\scaner.cpp(52,6): warning C4101: typ: неиспользованная локальная переменная
+  semant.cpp
+C:\Awesome Stuff\University\TLP\scaner\scaner\semant.cpp(529,61): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+C:\Awesome Stuff\University\TLP\scaner\scaner\scaner.cpp(260): warning C4715: TScaner::scaner: значение возвращается не при всех путях выполнения
+  scaner.vcxproj -> C:\Awesome Stuff\University\TLP\scaner\Debug\scaner.exe

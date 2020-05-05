@@ -1,0 +1,23 @@
+public class main
+	{
+		int a = 1;
+		public int fuc() 
+			{ 
+				a = a * 2 + 1;
+				return a / 2;
+			}
+		double b = fuc() + 2;
+		public int init()
+		{
+			double c = 10;
+			if(b > 3)
+			{
+				return c + b + 3;
+			}
+			else
+			{
+				return c - b + 5;
+			}
+			int xx = 5 / 0, yy = x + 1, aaa = bbb + ccc;
+		} 	
+	}
